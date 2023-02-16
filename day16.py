@@ -2,7 +2,7 @@ print("Привет, выберите опцию")
 print("1. Прочесть файл")
 print("2. Добавить запись")
 print("3. Выйти")
-
+print("created by Ayras")
 while True:
     options = int(input("Выберите опцию: "))
     if options == 1:
