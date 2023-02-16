@@ -1,0 +1,12 @@
+git status
+
+git add .
+
+git status
+
+git commit -a -m "комментарий"
+
+git push
+
+password
+

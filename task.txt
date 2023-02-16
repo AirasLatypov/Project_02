@@ -1,0 +1,30 @@
+Hello, check options:
+1. Read document
+2. Add record
+3. Exit
+
+Select option number (1, 2, 3): 3
+
+
+
+Please add new records
+Name: Airas
+Last Name: Latypov
+Address: Russia/Ufa
+
+Do want add additional record? (yes/no): yes
+
+Please add new records
+Name: Salavat
+Last Name: Nigmatullin
+Address: Turkey/Samsun
+
+Do want add additional record? (yes/no): no
+
+Check options:
+1. Read document
+2. Add record
+3. Exit
+
+Select option number (1, 2, 3): 3
+- Goodbye
