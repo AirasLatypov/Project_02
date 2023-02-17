@@ -1,3 +1,5 @@
+import readline
+
 print("Привет, выберите опцию")
 print("1. Прочесть файл")
 print("2. Добавить запись")
@@ -9,7 +11,8 @@ while True:
         print("OPTIONS 1 selected")
         with open("content.txt", "r", encoding="utf-8") as document:
             text = document.read()
-        print(text)
+            print(text)
+
 
     elif options == 2:
         print("OPTIONS 2 selected")
